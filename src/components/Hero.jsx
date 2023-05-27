@@ -3,7 +3,7 @@ import { MyPicture } from "../assets";
 
 const Hero = () => {
   return (
-    <section className={`relative flex flex-col w-full h-screen mx-auto`}>
+    <section className={`relative flex flex-col w-full mx-auto`}>
       <div
         className={`flex justify-center items-center flex-col py-20 max-w-7xl mx-auto ${styles.paddingX} `}
       >
